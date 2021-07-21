@@ -4,5 +4,9 @@ leak src. (src from 2/7/21)
 # Why?
 to avoid ppl thinking its phobos 2.0.0, he also removed my git access
 
+# Not Recommended
+dont use the src.. literally phobos with some bloats...
+
+
 
 
